@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+nav {
+  text-decoration: none;
+  background-color: aqua;
+  color: blue;
+  display: flex;
+  text-decoration: none;
+}
+.log {
+  font-size: 80px;
+  color: red;
+  background-color: blueviolet;
+  height: 50%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: italic;
+  text-decoration: none;
+}
+.irene {
+  color: yellow;
+  text-decoration: none;
+  display: flex;
+  outline: none;
+  list-style: none;
+  gap: 5px;
+}
+.irene li a {
+  color
+}
+nav ul li a {
+  display: flex;
+  text-decoration: none;
+  outline: none;
+}
+nav ul {
+  display: flex;
+  text-decoration: none;
+  padding: 5px;
+  gap: 12px;
+  padding: 15px;
+}
+.par{
+  font-size: large;
+  color: black;
+  
+}
+.img{
+  background-color: red;
+  text-align: center;
+}
